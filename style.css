@@ -1,0 +1,13 @@
+#menu {
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+.content {
+  background-color: green;
+}
+
+p {
+  color: blue;
+}
